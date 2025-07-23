@@ -1,0 +1,16 @@
+{
+  "name": "CHONKUS MAXIMUS",
+  "symbol": "CHOMX",
+  "description": "Supreme Chonkperor",
+  "image": "https://raw.githubusercontent.com/CHMX777/CHOMX777/main/chonkus_logo_512x512_compressed.png",
+  "external_url": "https://x.com/CHONKUSMAXIMUS1",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "D9M86af3yB8YWk7gVMWLA19gsJSwwaufo4AQSBwbPF5a",
+        "share": 100
+      }
+    ]
+  }
+}
