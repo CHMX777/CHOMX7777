@@ -2,6 +2,7 @@
   "name": "CHONKUS MAXIMUS",
   "symbol": "CHOMX",
   "description": "Supreme Chonkperor",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/CHMX777/CHOMX777/main/chonkus_logo_512x512_compressed.png",
   "external_url": "https://x.com/CHONKUSMAXIMUS1",
   "properties": {
